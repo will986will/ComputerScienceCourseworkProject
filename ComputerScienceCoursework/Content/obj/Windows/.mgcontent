@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_4_Way_Intersection.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_Blank.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_Coal_Power_Plant.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_Farm.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_House.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_House_Elite.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_House_High_Rise.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_House_Med.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_Logs.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_Ore.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_Power.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_Road_Left.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_Road_Right.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_T_Intersection_1.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_T_Intersection_2.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_T_Intersection_3.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_T_Intersection_4.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_TownHall.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_Watermill.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Cell_Windmill.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Coal.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Energy.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Food.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Iron.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Money.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Stone.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Wood.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/Icons/Icon_Workers.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Power/01.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Power/02.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Power/03.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/House/01.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/House/02.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/House/03.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/House/04.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/House/05.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/House/06.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/House/07.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/House/08.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/House/09.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/House/10.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/House/11.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/House/12.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Fonts/Font_01.spritefont</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Fonts/Font_02.spritefont</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sounds/FX/click.wav</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sounds/FX/Glimmer.mp3</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sounds/FX/Poof.wav</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sounds/Music/Bgm.mp3</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sounds/Music/Bgm2.mp3</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Branding/Loading_Game.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Images/world_capture.PNG</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Farm/01.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Farm/02.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Ore/01.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Roads/4_Way_Intersection.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Roads/Corner_1.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Roads/Corner_2.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Roads/Corner_3.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Roads/Corner_4.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Roads/Left.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Roads/Right.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Roads/T_Intersection_1.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Roads/T_Intersection_2.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Roads/T_Intersection_3.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Roads/T_Intersection_4.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/TownHall/01.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Watermill/01-Anim.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Watermill/01.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Buildings/Wood/01.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/FX/Smoke/01-Anim.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Natural/Cement.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Natural/Coal.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Natural/Dirt.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Natural/Grass.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Natural/Iron.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Natural/Stone.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Natural/Tree_Cluster_01.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Natural/Tree_Single_01.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/Tiles/Natural/Water.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/UI_Arrow_Black.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/UI_Arrow_Green.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/UI_Button.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/UI_Button_Delete.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/UI_Button_House.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/UI_Button_Small.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/UI_Button_Small_close.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/UI_Button_Small_House.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/UI_Button_Small_Money.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/UI_Button_Small_Trash.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/UI_Button_Small_Tree.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/UI_Cursor.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/UI_Panel_DisplayInfo.png</File>
+    <File>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sprites/UI/UI_Panel_ResourceBar.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

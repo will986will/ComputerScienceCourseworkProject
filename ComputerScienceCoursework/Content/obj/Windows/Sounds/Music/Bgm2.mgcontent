@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/Content/Sounds/Music/Bgm2.mp3</SourceFile>
+  <SourceTime>2018-12-11T13:51:33+00:00</SourceTime>
+  <DestFile>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/bin/Windows/x86/Debug/Content/Sounds/Music/Bgm2.xnb</DestFile>
+  <DestTime>2022-04-24T20:44:07.1052371+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-09-23T22:55:52+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-09-23T22:55:52+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/wgmcg/source/repos/will986will/ComputerScienceCoursework/ComputerScienceCoursework/bin/Windows/x86/Debug/Content/Sounds/Music/Bgm2.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
